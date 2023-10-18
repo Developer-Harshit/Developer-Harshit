@@ -1,1 +1,1 @@
-[![MasterHead](https://media.tenor.com/ghl9RJv_ItgAAAAC/anime-banner.gif)](https://github.com/Developer-Harshit)
+[![MasterHead](https://media0.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)](https://github.com/Developer-Harshit)
