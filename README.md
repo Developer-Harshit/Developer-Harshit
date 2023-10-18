@@ -44,8 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo"  />
   <img width="12" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-harshit&show_icons=true&locale=en&layout=compact" alt="developer-harshit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-harshit&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="developer-harshit" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=developer-harshit&show_icons=true&locale=en" alt="developer-harshit" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-harshit&show_icons=true&theme=tokyonight&locale=en" alt="developer-harshit" /></p>
 ###
