@@ -14,7 +14,7 @@
 
 
 <h1 align="center">Hello there</h1>
-<h3 align="center">I can code in python and javascript/h3>
+<h3 align="center">I can code in python and javascript</h3>
 
 
 
