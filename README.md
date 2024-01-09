@@ -16,7 +16,13 @@
 <h1 align="center">Hello there</h1>
 <h3 align="center">I can code in python and javascript</h3>
 
+<style>
+*{
+width:100%;
+display:block;
 
+}
+<style/>
 
 
 </div>
@@ -39,4 +45,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-harshit&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="developer-harshit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-harshit&show_icons=true&theme=tokyonight&locale=en" alt="developer-harshit" /></p>
-###
+
