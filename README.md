@@ -1,40 +1,16 @@
-[![MasterHead](https://media0.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)](https://github.com/Developer-Harshit)
-
-
-###
-
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/e23W-WfZD-kAAAAd/animation-loop.gif"  />
-
-###
-
-
-
+[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazN6Z3VhcDRjNDA2YTM3ZG1qZzE4Nmk0cmFtdzFjdm80YTR2czZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4Kjoat3j5PB0iv6Ef/giphy.gif)](https://github.com/Developer-Harshit)
 
 <h1 align="center">Hello there</h1>
-<h3 align="center">I can code in python and javascript</h3>
 
 
 
-</div>
-
-
-</p>
-
-
-<p align="center" width="100%"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  
-
- </p>
-
-<p><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-harshit&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="developer-harshit" /></p>
-
-<p>&nbsp;<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=developer-harshit&show_icons=true&theme=tokyonight&locale=en" alt="developer-harshit" /></p>
-
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-harshit&show_icons=true&theme=calm_pink&locale=en&layout=donut" alt="developer-harshit" />
+    </td>
+    <td valign="top">
+<img  src="https://github-readme-stats.vercel.app/api?username=developer-harshit&show_icons=true&theme=calm_pink&locale=en&line_height=30" alt="developer-harshit" />
+    </td>
+  </tr>
+</table>
