@@ -1,15 +1,12 @@
 
-<h1 align="center">Hello there</h1>
-
-
 <div width="100%">
 <table align="center" >
   <tr>
     <td valign="top" >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-harshit&show_icons=true&theme=calm_pink&locale=en&layout=donut" alt="developer-harshit" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-harshit&show_icons=true&theme=radical&locale=en&layout=compact" alt="developer-harshit" />
     </td>
     <td valign="top">
-<img  src="https://github-readme-stats.vercel.app/api?username=developer-harshit&show_icons=true&theme=calm_pink&locale=en&line_height=30" alt="developer-harshit" />
+<img  src="https://github-readme-stats.vercel.app/api?username=developer-harshit&show_icons=true&theme=radical&locale=en&line_height=30" alt="developer-harshit" />
     </td>
   </tr>
 </table>
